@@ -1,0 +1,2 @@
+This is a sample text file created to achieve the "Pair Extraordinaire" badge on GitHub.
+It demonstrates the concept of pairing by containing two related pieces of information.
